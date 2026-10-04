@@ -1,10 +1,9 @@
-# MiniFeather Client — releases
+# ARCHIVADO — los releases viven en el repo oficial
 
-releases estables de minifeather client, etiquetadas (`v*`). el día a día — betas, hotload rolling, código, issues — vive en **[DevOfficial-Client/MiniFeather-Client](https://github.com/DevOfficial-Client/MiniFeather-Client)**, donde el código fuente está 100% público bajo GPL-3.0.
+los releases estables de MiniFeather Client ahora se publican **dentro del repo oficial** (pestaña Releases, por tag `v*`):
 
-cada release trae:
+**https://github.com/DevOfficial-Client/MiniFeather-Client/releases**
 
-- **userscript minificado** (`MiniFeatherClient.user.js`) — los script managers (tampermonkey/violentmonkey/userscripts) lo auto-actualizan solos.
-- **zip del código fuente legible** — el mismo código, sin masticar, GPL-3.0. la versión minificada se genera automáticamente desde este fuente: nada escondido, solo masticado.
+- fuente legible: rama `main` (GPL-3.0) · betas: rama `beta` · distribución minificada: rama `minified`
 
-la eula aplica a todo: [EULA](https://github.com/DevOfficial-Client/MiniFeather-Client/blob/main/EULA.es.md) · [TL;DR humano](https://github.com/DevOfficial-Client/MiniFeather-Client/blob/main/EULA-TLDR.md).
+este repo queda congelado; no se usa más.
